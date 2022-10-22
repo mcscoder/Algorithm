@@ -1,3 +1,5 @@
+// Sum queries range with update node
+
 #include <iostream>
 
 #define int long long
